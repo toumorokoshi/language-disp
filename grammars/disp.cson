@@ -4,7 +4,7 @@
 'scopeName': 'source.disp'
 'name': 'Disp'
 'fileTypes': [
-  'extension'
+  'ds'
 ]
 'patterns': [
   {
@@ -13,6 +13,6 @@
   },
   {
     'match': 'mut ',
-    'name': 'mut'
+    'name': 'keyword.control.class.disp'
   }
 ]
